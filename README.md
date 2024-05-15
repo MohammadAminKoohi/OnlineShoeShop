@@ -1,4 +1,5 @@
 # OnlineShoeShop
+Sut advanced programming problem 2 of Network and multithreading assignment
 A client-server shoe store simulation implemented using sockets and multithreading, allowing multiple clients to perform operations such as registering, logging in, getting shoe prices and quantities, charging accounts, and making purchases.
 
 ## Commands
