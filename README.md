@@ -11,7 +11,3 @@ A client-server shoe store simulation implemented using sockets and multithreadi
 - **Account Balance**: `get money` - Display the current client's balance.
 - **Account Charging**: `charge:money` - Add funds to the client's account.
 - **Purchase**: `purchase:shoe_name:quantity` - Buy a quantity of a shoe.
-
-## Overview
-
-ShoeNet facilitates registration, login/logout, querying prices and quantities, account management, and purchasing shoes. The server employs multithreading for concurrent client handling and ensures robust error handling for graceful command processing.
